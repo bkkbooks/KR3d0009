@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3d0009/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR3d0009/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 野菜博錄
+  date: '2015-08-24 23:03:45.540251'
+  source:
+    repository: kanripo
+    path: KR3d0009
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3d0009_000-SBCK.yaml, hash: 'sha256:5194faf582f421a4b4d04492a08312658f3b040bfaa41be12866f3c685272d3c'}
+  - {seq: 1, filename: KR3d0009_001-SBCK.yaml, hash: 'sha256:c46e08c64862b09673d1cbc236848fd51d0c9ca2d1c823be7b9e1a051b99086b'}
+  - {seq: 2, filename: KR3d0009_002-SBCK.yaml, hash: 'sha256:e6e97e340c4c95081be2b0eb42af94f94b7d4584f819dc9d0f04066838ede509'}
+  - {seq: 3, filename: KR3d0009_003-SBCK.yaml, hash: 'sha256:2e06c22746887db627658e6be93a834b1cae6a9b69cc5fffcefe2e9963e18890'}
+  - {seq: 4, filename: KR3d0009_004-SBCK.yaml, hash: 'sha256:5231d149190944af2dbf05d3f6285a61ce2f68f2199130e6b36518426d34046f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3d0009_000-SBCK.markers.yaml, hash: 'sha256:d5abcb0a234f270511624a8e0c3db9c7ab29c71c597448a390225aa326668a9b'}
+  - {seq: 1, role: markers, filename: assets/KR3d0009_001-SBCK.markers.yaml, hash: 'sha256:7111acf3d59e6297f82ad6eb1c3d80caa259b5de45f486ad70c8ecfa37877940'}
+  - {seq: 2, role: markers, filename: assets/KR3d0009_002-SBCK.markers.yaml, hash: 'sha256:0632da21d4e7959ee8063d0321f00299a37e5779096e1b1c2969900555c8d2bf'}
+  - {seq: 3, role: markers, filename: assets/KR3d0009_003-SBCK.markers.yaml, hash: 'sha256:a6ad598160bfad457097ae8b0b1cfa0cd51c604f3aa77cc3736c3f08bea352f0'}
+  - {seq: 4, role: markers, filename: assets/KR3d0009_004-SBCK.markers.yaml, hash: 'sha256:190552f71533ef37247717803cb82e1b9a97488953ac1f03351d385c627a920a'}
+table_of_contents:
+- ref: {seq: 0, marker_id: '', span: [body, 0, 1]}
+  label: juan 000
+  type: section
+  level: 1
+- ref: {seq: 1, marker_id: '', span: [body, 0, 1]}
+  label: juan 001
+  type: section
+  level: 1
+- ref: {seq: 2, marker_id: '', span: [body, 0, 1]}
+  label: juan 002
+  type: section
+  level: 1
+- ref: {seq: 3, marker_id: '', span: [body, 0, 1]}
+  label: juan 003
+  type: section
+  level: 1
+- ref: {seq: 4, marker_id: '', span: [body, 0, 5]}
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:f879e0377063f0bee8d32161085a709164652a3e09b6f4aee3341a8396cfa9e7

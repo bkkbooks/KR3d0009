@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3d0009/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部四
+  hash: sha256:940855fe39bdf892ef95be162cb092ce2270c5f8a764e60b4375e12cb73cf01d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3d0009_WYG_000-1a, image: WYG0731/WYG0731-0979a.png}
+body:
+  text: 野菜博録農家類提要臣等謹案野菜博録四卷明鮑山撰山字元則號在齋婺源人嘗入黄山築室白龍潭上七年備嘗野蔬諸味因次其品彚别其性味詳其調製著為是編分草部二卷木部二卷草部葉可食者自大藍至秋角苖一百四十二種木部葉可食者自茶樹柯至藩籬枝五十九種花可食者自臘梅至欛齒五種實可食者自青舍子條至野葡萄二十五種花可食者槐樹欒花木房木三種葉實可食者杏樹至石榴十九種花葉實俱可食者松樹至旁其五種葉皮實俱可食者榆錢至老兒樹四種並圖繪其形以備荒歳盖明之末造饑饉相仍山作此書亦仁者之用心乎所録廣於王磐野菜譜較明周憲王救荒本草亦互有出入木饑金穰理可先知堯水湯旱數亦莫遁有備無患不厭周詳茍其有益於民命則王道不廢焉書雖淺近要亦荒政之一端也乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:57b8b79befb6c8518bcf278f698b8595ce42fefeffd5b35fca2a779d2445440c
+metadata:
+  title: 野菜博錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:03:45.540251'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3d0009/KR3d0009_000.txt
+hash: sha256:7d5d586a013e3cef636b6d87618ff5cdf4712bbe66a186292aa554a9596f14fb

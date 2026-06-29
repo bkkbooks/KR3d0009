@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3d0009/SBCK/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寧
+  hash: sha256:cb7780164fddd56b6bb3220ab9ff6c309cb89232d37de9f2325381ad63285570
+metadata:
+  title: 野菜博錄
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 23:03:45.540251'
+  source:
+    repository: kanripo
+    path: KR3d0009/KR3d0009_001.txt
+hash: sha256:c46e08c64862b09673d1cbc236848fd51d0c9ca2d1c823be7b9e1a051b99086b
